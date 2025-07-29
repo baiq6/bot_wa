@@ -26,6 +26,9 @@
     "uuid": "^11.1.0",
     "link-preview-js": "^3.1.0"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "name": "mpwa",
   "version": "10.1.1",
   "description": "Whatsapp remote API multi device, multi instance. Based on onexgen baileys.",
